@@ -13,17 +13,17 @@ In addition, he is requesting specific data for the months of June and December,
 
 ### A. Summary Statistics for June
 
-**JUNE**
+**JUNE: MIN=64.0  MAX=85.0  AVE=74.9**
 
 ![](analysis/June_Temp.PNG)
 
 
-
 ### B. Summary Statistics for December
 
-**DECEMBER**
+**DECEMBER: MIN=56.0  MAX=83.0  AVE=71.0**
 
 ![](analysis/Dec_Temp.PNG)
+
 
 
 ## III. Summary
