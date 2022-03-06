@@ -13,7 +13,7 @@ In addition, he is requesting specific data for the months of June and December,
 
 ### A. Summary Statistics for June
 
-**JUNE*
+**JUNE**
 
 ![](analysis/June_Temp.PNG)
 
