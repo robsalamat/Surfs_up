@@ -34,6 +34,6 @@ In addition, he is requesting specific data for the months of June and December,
 While it was expected that December is colder than June, the MAX value is only 2 degrees lower. But for MIN value, 8 degrees looks like a big difference. It is very good that the AVE value for December is still 71(above 70), meaning the low temperatures happen very few times. This is supported by the December's 25-Percentile value of 69, which is still close to 70 degrees. **This means that the temperature in Oahu will be hot all-year-round and the business venture seems promising.**
 
 For additional data backing and support to this conclusion. Future queries that can be done for Oahu are:
-- Year-round trend for precipiation data
+- Year-round trend for precipitation data
 - year-round trend for wave height data
 - year-round trend for tourist poulation data
