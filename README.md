@@ -17,16 +17,23 @@ In addition, he is requesting specific data for the months of June and December,
 
 ![](analysis/June_Temp.PNG)
 
-
 ### B. Summary Statistics for December
 
 **DECEMBER: MIN=56.0  MAX=83.0  AVE=71.0**
 
 ![](analysis/Dec_Temp.PNG)
 
+### C. COMPARISON
+- MIN: DEC is lower by 8.0 degrees.
+- MAX: DEC is lower by 2.0 degrees.
+- AVE: DEC is lower by 3.9 degrees.
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
 ## III. Summary
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+While it was expected that December is colder than June, the MAX value is only 2 degrees lower. But for MIN value, 8 degrees looks like a big difference. It is very good that the AVE value for December is still 71(above 70), meaning the low temperatures happen very few times. This is supported by the December's 25-Percentile value of 69, which is still close to 70 degrees. **This means that the temperature in Oahu will be hot all-year-round and the business venture seems promising.**
+
+For additional data backing and support to this conclusion. Future queries that can be done for Oahu are:
+- Year-round trend for precipiation data
+- year-round trend for wave height data
+- year-round trend for tourist poulation data
