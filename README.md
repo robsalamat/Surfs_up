@@ -9,7 +9,7 @@ In order to get the backing of an investor, W. Avy, the temperature trends of Oa
 In addition, he is requesting specific data for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 
-## II. Analysis and Results
+## II. [Analysis and Results](SurfsUp_Challenge.ipynb)
 
 ### A. Summary Statistics for June
 
