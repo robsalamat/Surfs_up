@@ -3,10 +3,10 @@
 ## I. Overview of Project
 
 ### Background
-A
+In order to get the backing of an investor, W. Avy, the temperature trends of Oahu for the last 12 months were analayzed and presented.
 
 ### Objective
-B
+In addition, he is requesting specific data for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 
 ## II. Analysis and Results
